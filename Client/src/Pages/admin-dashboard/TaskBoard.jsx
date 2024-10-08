@@ -6,7 +6,7 @@ import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import Modal from "react-bootstrap/Modal";
 import Table from "react-bootstrap/Table";
-import "../../styles/Taskboard.css";
+import "../../Styles/Taskboard.css";
 import plus from "../../assets/plus.svg";
 
 const TaskBoard = () => {
