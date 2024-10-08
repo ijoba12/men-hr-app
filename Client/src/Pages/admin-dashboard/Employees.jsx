@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Employ } from "../../taskboard";
+import { Employ } from "../../Taskboard";
 import Table from "react-bootstrap/Table";
 import { Outlet, Link, useMatch, useActionData } from "react-router-dom";
 import plus from "../../assets/plus.svg";

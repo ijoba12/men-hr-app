@@ -1,8 +1,7 @@
 import React from 'react'
 import Table from "react-bootstrap/Table";
 import tosin from "../../assets/Ellipse 7.svg";
-import { PayrollTable,payRollgraph } from '../../taskboard';
-import { Link } from 'react-router-dom';
+import { PayrollTable,payRollgraph } from '../../Taskboard';
 import PayrollModal from './PayRollModal';
 
 const PayRoll = () => {

@@ -1,5 +1,5 @@
 import React from "react";
-import { taskboard } from "../../taskboard";
+import { taskboard } from "../../Taskboard";
 import { useState } from "react";
 import { AdminTable } from "../../db";
 import Button from "react-bootstrap/Button";

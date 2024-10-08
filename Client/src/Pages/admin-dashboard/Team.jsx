@@ -5,10 +5,9 @@ import arrow from "../../assets/right.svg"
 import { useState } from "react";
 import addIcon from "../../assets/plus.svg";
 import { useMatch } from "react-router-dom";
-import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
 import xIcon from "../../assets/close.svg";
-import { Employ } from "../../taskboard";
+import { Employ } from "../../Taskboard"
 import Table from "react-bootstrap/Table";
 
 function MyVerticallyCenteredModal(props) {
